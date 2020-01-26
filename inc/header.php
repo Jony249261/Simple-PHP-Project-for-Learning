@@ -33,7 +33,7 @@ input[type="submit"]{cursor: pointer}
 </head>
 <body>
   <header class="headeroption">
-    <h2>Object-Oriented PHP for Beginners</h2>
+    <h2>Simple PHP Project for Learning</h2>
   </header>
 <div class="content">
 <section class="subject">
